@@ -51,4 +51,4 @@ class ToH
 	}
 }
 
-module.exports = new ToH()
+export default new ToH()
